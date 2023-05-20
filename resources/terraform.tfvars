@@ -1,0 +1,7 @@
+resource_group_name = "adf-rg"
+location            = "North Europe"
+adf_dev_name = "adf-ht-dev"
+adf_staging_name = "adf-ht-staging"
+adf_prod_name = "adf-ht-prod"
+storage_account_name1 = "htstorageaccountadfsrc"
+storage_account_name2 = "htstorageaccountadfsink"
